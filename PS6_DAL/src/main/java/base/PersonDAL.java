@@ -14,7 +14,7 @@ import domain.PersonDomainModel;
 import domain.StudentDomainModel;
 import util.HibernateUtil;
 
-
+//comment
 public class PersonDAL {
 	
 	public static PersonDomainModel addPerson(PersonDomainModel per) {
